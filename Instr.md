@@ -11,7 +11,12 @@ git init
 git add
 ``````
 
+## Создание коммитов(сохранений)
+
+``````
 git commit -m "Messege"
+``````
+
 git log
 git log --oneline
 git checkout
