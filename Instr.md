@@ -22,6 +22,10 @@ git commit -m "Messege"
 ``````
 git log
 ``````
+## Более короткий список коммитов
 
+``````
 git log --oneline
+``````
+
 git checkout
