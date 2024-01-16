@@ -17,6 +17,11 @@ git add
 git commit -m "Messege"
 ``````
 
+## Список созданных коммитов
+
+``````
 git log
+``````
+
 git log --oneline
 git checkout
